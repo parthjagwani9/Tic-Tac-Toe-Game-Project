@@ -14,6 +14,6 @@ This project was focused on mastering the basics of web development without usin
 * Automatic Win/Draw detection with a reset button.
 
 ## 🛠️ Tech Stack
-* **HTML5** for structure.
-* **CSS3** for the grid layout and styling.
-* **JavaScript (ES6)** for the game engine.
+* **HTML5** for structure
+* **CSS3** for the grid layout and styling
+* **JavaScript (ES6)** for the game engine
